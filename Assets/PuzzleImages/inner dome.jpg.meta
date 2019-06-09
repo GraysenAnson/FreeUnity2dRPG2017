@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: a7b043eb97d7a44469b866cf478588c6
+timeCreated: 1487578168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: inner dome_0
+    21300002: inner dome_1
+    21300004: inner dome_2
+    21300006: inner dome_3
+    21300008: inner dome_4
+    21300010: inner dome_5
+    21300012: inner dome_6
+    21300014: inner dome_7
+    21300016: inner dome_8
+    21300018: inner dome_9
+    21300020: inner dome_10
+    21300022: inner dome_11
+    21300024: inner dome_12
+    21300026: inner dome_13
+    21300028: inner dome_14
+    21300030: inner dome_15
+    21300032: inner dome_16
+    21300034: inner dome_17
+    21300036: inner dome_18
+    21300038: inner dome_19
+    21300040: inner dome_20
+    21300042: inner dome_21
+    21300044: inner dome_22
+    21300046: inner dome_23
+    21300048: inner dome_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inner dome_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 330.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 330.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 330.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 330.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 248.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 248.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 248.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 166.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 166.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 166.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 166.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 84.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 84.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_18
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 84.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_19
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 84.4
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000015
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2.4000015
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2.4000015
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2.4000015
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inner dome_24
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2.4000015
+        width: 124
+        height: 82.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
